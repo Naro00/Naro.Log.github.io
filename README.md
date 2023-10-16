@@ -2,7 +2,7 @@
 
 #### Skills : Excel, Power BI, Python, SQL, HTML
 #### Personal Website
-- [Linkedin](www.linkedin.com/in/kim-naro)
+- [Linkedin](https://www.linkedin.com/in/kim-naro)
 - [Notion](https://narolog.notion.site/e5a1ef780c114d45be5591307c0327e3?v=09b29edafac24a57af87f66c97b912d5&pvs=4)
   
 ## Work Experience
