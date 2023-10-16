@@ -1,4 +1,7 @@
 # Naro Kim
+Welcome to the Website of Naro Kim.
+I am a trustworthy indivisual who is always up for a challenge and works hard to achieve goals whild maintaining harmony with those around me.
+My primary pasttime is playing sports like swimming, body building, and bouldering. Working out, game, cook, travel, and cat are all things whose presence in my life I greatly appreciate.
 
 #### Skills : Excel, Power BI, Python, SQL, HTML
 #### Personal Website
